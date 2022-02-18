@@ -1,1 +1,2 @@
 body{margin:0;background-color:#000}
+.body{position:relative}.scoreBlock{display:inline-block;position:absolute;left:5%;top:5%;color:lime;font-size:3rem}#uiMenu{position:absolute;display:flex;justify-content:center;align-items:center;left:50%;top:50%;transform:translate(-50%, -50%);width:25%;height:25%;border-radius:10%;background-color:blue;opacity:.8}#uiMenu>span{font-size:3rem;color:gold}#uiMenu>span:hover{cursor:pointer;color:#fff}
